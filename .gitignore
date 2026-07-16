@@ -1,0 +1,26 @@
+# Environment variables / secrets
+.env
+.env.*
+!.env.example
+
+# Spring Boot / Maven
+target/
+*.jar
+*.war
+*.class
+
+# Gradle (if used instead of Maven)
+.gradle/
+build/
+
+# IDE
+.idea/
+*.iml
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
