@@ -23,7 +23,6 @@ npm install axios lucide-react react-router-dom react-hot-toast stompjs sockjs-c
 
 ### 3. run project
 
-backend run :  mvn spring-boot:run
-frontend run : npm run dev 
-
+--**backend run:** mvn spring-boot:run
+--**frontend run:** npm run dev 
 
